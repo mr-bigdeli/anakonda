@@ -1,8 +1,8 @@
-"""add tasks table
+"""empty message
 
-Revision ID: cef3b15b8c63
+Revision ID: 0ba623dcf7db
 Revises: 
-Create Date: 2024-01-09 14:21:28.214387
+Create Date: 2024-01-10 05:56:01.347872
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'cef3b15b8c63'
+revision = '0ba623dcf7db'
 down_revision = None
 branch_labels = None
 depends_on = None
